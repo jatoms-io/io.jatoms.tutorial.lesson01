@@ -1,0 +1,8 @@
+image:
+  file: .gitpod.Dockerfile
+
+
+vscode:
+  extensions:
+    - vscjava.vscode-maven@0.20.2:JNcGS5UaMCMRjbkKt40gUQ==
+    - GabrielBB.vscode-lombok@0.9.9:crmJ0s9mO0sdhxHl4cZaMw==
